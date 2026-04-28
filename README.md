@@ -6,6 +6,8 @@
 
 This contains everything you need to run your app locally.
 
+After that One has use their own API Key to view APP in AI STUDIO
+
 View your app in AI Studio: https://ai.studio/apps/8dc7c2f3-bd7a-4b05-934f-8be66d127782
 
 ## Run Locally
